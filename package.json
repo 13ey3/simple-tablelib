@@ -1,0 +1,31 @@
+{
+  "name": "datagridjs",
+  "version": "1.0.0",
+  "description": "modul table javascript sederhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx mix",
+    "watch": "npx mix watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13ey3/simple-tablelib.git"
+  },
+  "keywords": [
+    "datatable",
+    "datagrid",
+    "table",
+    "js",
+    "module"
+  ],
+  "author": "13ey3",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/13ey3/simple-tablelib/issues"
+  },
+  "homepage": "https://github.com/13ey3/simple-tablelib#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
